@@ -1,0 +1,20 @@
+{
+  "name": "practice-code",
+  "version": "1.0.0",
+  "description": "coding practice",
+  "main": "src/index.js",
+  "module": "src/main.js",
+  "scripts": {
+    "test": "node -r esm src/main.js"
+  },
+  "keywords": [
+    "class",
+    "coding",
+    "practice"
+  ],
+  "author": "c.patterson",
+  "license": "ISC",
+  "dependencies": {
+    "esm": "^3.2.25"
+  }
+}
